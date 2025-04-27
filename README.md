@@ -3,7 +3,7 @@ Interactive Dashboard Design for Business Stakeholders
  Objective
 Design and develop an interactive dashboard to help business stakeholders make informed decisions, using Power BI or Tableau.
 
-🛠 Tools Used
+ Tools Used
 Power BI / Tableau
 
 Dataset from Kaggle (Sales/Financial data)
